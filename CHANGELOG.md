@@ -1,3 +1,9 @@
+## 0.17.1 (2021-01-02)
+
+### Bug fixes
+
+Fix a bug in `Text.replace` where deleting the entire document would produce an invalid instance.
+
 ## 0.17.0 (2020-12-29)
 
 ### Breaking changes
