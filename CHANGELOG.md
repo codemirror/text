@@ -1,3 +1,9 @@
+## 0.18.1 (2021-07-06)
+
+### Breaking changes
+
+`findColumn` now takes only three arguments. (The old argument list will be supported until the next breaking version.)
+
 ## 0.18.0 (2021-03-03)
 
 ### Breaking changes
