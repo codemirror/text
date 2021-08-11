@@ -1,3 +1,9 @@
+## 0.19.0 (2021-08-11)
+
+### Breaking changes
+
+`countColumn` now takes different arguments.
+
 ## 0.18.1 (2021-07-06)
 
 ### Breaking changes
