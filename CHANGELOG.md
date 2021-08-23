@@ -1,3 +1,9 @@
+## 0.19.1 (2021-08-23)
+
+### New features
+
+`Text` objects now expose an `iterLines` method to create an iterator over their lines.
+
 ## 0.19.0 (2021-08-11)
 
 ### Breaking changes
