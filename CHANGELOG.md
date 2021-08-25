@@ -1,3 +1,9 @@
+## 0.19.2 (2021-08-25)
+
+### New features
+
+`Text.children` is now public, and can be used to iterate over the `Text` objects in a tree.
+
 ## 0.19.1 (2021-08-23)
 
 ### New features
