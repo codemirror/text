@@ -1,3 +1,9 @@
+## 0.19.3 (2021-09-04)
+
+### Bug fixes
+
+Fix an issue where a partial text cursor would sometimes not appropriately report it was done.
+
 ## 0.19.2 (2021-08-25)
 
 ### New features
