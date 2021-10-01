@@ -1,3 +1,11 @@
+## 0.19.4 (2021-10-01)
+
+### New features
+
+`TextIterator`s are now iterable.
+
+`findColumn` now takes an optional `strict` argument that makes it report -1 for columns outside of the string.
+
 ## 0.19.3 (2021-09-04)
 
 ### Bug fixes
