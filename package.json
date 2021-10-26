@@ -1,6 +1,6 @@
 {
   "name": "@codemirror/text",
-  "version": "0.19.4",
+  "version": "0.19.5",
   "description": "Document data structure for the CodeMirror code editor",
   "scripts": {
     "test": "cm-runtests",

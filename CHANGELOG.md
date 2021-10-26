@@ -1,3 +1,9 @@
+## 0.19.5 (2021-10-26)
+
+### Bug fixes
+
+Fix the return type of `iterLines`.
+
 ## 0.19.4 (2021-10-01)
 
 ### New features
