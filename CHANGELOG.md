@@ -1,3 +1,9 @@
+## 0.19.6 (2022-01-14)
+
+### New features
+
+`findClusterBreak` now takes an optional `includeExtending` argument that determines whether it skips over extending characters.
+
 ## 0.19.5 (2021-10-26)
 
 ### Bug fixes
